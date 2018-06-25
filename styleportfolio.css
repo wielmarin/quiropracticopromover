@@ -1,0 +1,251 @@
+/*Portfolio opzet 1*/
+
+div.flex-containerportfolio {
+max-width: 800px;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;
+width: 100%;
+max-height: 1200px;
+margin: auto;
+align-items: center;
+justify-content: space-around;
+padding-bottom:10px;
+}
+
+div.flex-item1portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoovermij-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 220px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item2portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotooplossingen-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 220px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item3portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoportfolio.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 220px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item4portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoovermij-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 220px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item5portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoportfolio.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 220px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.text-itemportfolio {
+	width: 40%;
+	Margin-top: 10%;
+	Margin-left: 3%;
+	Margin-right: 2%;
+	font-size: 14px;
+	opacity: 1!important;
+}
+
+div.description-portfolio {
+	color: #FFF!important;
+	background-color: #008b8b;
+	opacity: 0.8;
+	margin-top: 50%;
+	margin-bottom: 25%;
+	margin-right: 5%;
+	padding: 15px 0px;
+	border-bottom: 5px solid #FFF;
+	text-align: center;
+	font-family: 'Mairy Black';
+	font-size: 12px;
+	width: 50%;
+}
+
+/*Portfolio opzet 2 */
+
+div.flex-containerportfolio {
+max-width: 1000px;
+display: -webkit-flex;
+display: flex;
+-webkit-flex-wrap: wrap;
+flex-wrap: wrap;
+width: 100%;
+max-height: 1200px;
+margin: auto;
+align-items: center;
+justify-content: space-around;
+padding-bottom:10px;
+}
+
+div.flex-item1portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoovermij-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 250px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item2portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotooplossingen-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 250px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item3portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoportfolio.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 250px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item4portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoovermij-1.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 250px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.flex-item5portfolio {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-wrap: wrap;
+	flex-wrap: wrap;
+	border: 1px solid #232424;
+	background-image: url(http://192.168.1.148/maxine/wp-content/uploads/2017/01/fotoportfolio.jpg);
+	background-size: 50% 100%;
+	background-repeat: no-repeat;
+	width: 45%;
+	height: 250px;
+	margin: 10px;
+	opacity: 0.8;
+}
+
+div.text-itemportfolio {
+	width: 40%;
+	Margin-top: 5%;
+	Margin-left: 3%;
+	Margin-right: 2%;
+	font-size: 14px;
+	opacity: 1!important;
+}
+
+div.description-portfolio {
+	color: #FFF!important;
+	background-color: #008b8b;
+	opacity: 0.8;
+	margin-top: 55%;
+	margin-bottom: 10%;
+	margin-right: 5%;
+	padding: 25px 0px;
+	border-bottom: 5px solid #FFF;
+	text-align: center;
+	font-family: 'Mairy Black';
+	font-size: 12px;
+	width: 50%;
+	
+}
+
+		<div class="flex-item1portfolio">
+		<div class="description-portfolio"><H1>Professional FM</H1></div>
+		<div class="text-itemportfolio"><p><b>Ervaring:</b><br><li> Ludens, Leidinggevende Facilitaire Zaken</li><br><br><li>Kwink, Projectleider Integratie SSC</li></p></div>
+		</div>
+		<div class="flex-item2portfolio">
+		<div class="description-portfolio"><H1>Huisvesting</H1></div>
+		<div class="text-itemportfolio"><p><b>Ervaring:</b><br><li>SAG, Facilitair Consultant</li><br><br><li>SAG, Projectleider Verhuizingen</li></p></div>
+		</div>
+		<div class="flex-item3portfolio">
+		<div class="description-portfolio"><H1>Coaching & Leiding geven</H1></div>
+		<div class="text-itemportfolio"><p><b>Ervaring:</b><br><li>Erasmus Universiteit, Manager Services</li><br><li>Kinderopvang SKAK, Teammanger Facilitaire zaken</li></p></div>
+		</div>
+		<div class="flex-item4portfolio">
+		<div class="description-portfolio"><H1>Training & Onderwijs</H1></div>
+		<div class="text-itemportfolio"><p><b>Ervaring:</b><br><li>HAN, Training Onderhandelen</li><br><li>HAN, Projectleider Propedeuse Vernieuwing</li><br><li>HAN, Training Management & Leiderschap</li><br><li>HAN, Projectleider Praktijk in Propedeuse</li></p></div>
+		</div>
+		<div class="flex-item5portfolio">
+		<div class="description-portfolio"><H1>Contract & Performance Management<H1></div>
+		<div class="text-itemportfolio"><p><b>Ludens:</b> Leidinggevende Facilitaire zaken<br><br><b>Kwink:</b> Projectleider Integratie SSC</p></div>
+		</div>
