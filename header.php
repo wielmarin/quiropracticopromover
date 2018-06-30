@@ -6,6 +6,7 @@
 		<meta charset="<?php bloginfo('charset'); ?>">
 		<meta name="viewport" content="width=device-width">
 		<?php wp_head(); ?>
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
 	</head>
 
 <body <?php body_class(); ?>>
@@ -45,15 +46,7 @@
 				);
 			?>
 			<?php wp_nav_menu( $args ); ?>	</div>
-				<!-- Trial removal <a href="http://www.quiropracticopromover.es/nl/" id="headnl">
-				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839997_flag-the-netherlands.png" alt="Nederlands" height="20" width="20">
-				</a>
-				<a href="http://www.quiropracticopromover.es/en/" id="headeng">
-				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839982_flag-united-kingdom.png" alt="English" height="20" width="20">
-				</a> 
-				<a href="http://www.quiropracticopromover.es/" id="headesp">
-				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839961_flag-spain.png" alt="Espanol" height="20" width="20">
-				</a> -->
+				
 			<!-- End Flags -->	
 		</div>	
 	</div>
@@ -71,7 +64,10 @@
 	</div>
 		
 		<!-- navigation -->
-			
+	<!--- Mobile Menu Open/Close -->
+	<span id="menuopen"><i id="open" class="fas fa-bars"></i><p>MENU</p></span>
+	<i id="close" class="far fa-window-close"></i>		
+	
 	<div class="frontnav">
 
 				<?php
