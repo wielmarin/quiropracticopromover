@@ -465,6 +465,81 @@ div.frontnav li a {
 	}
 }
 
+/****** Side Contact Button **********/
+
+/* Contact button on scroll */
+
+.contact-onscroll-open {
+	background-color: #2e8b57;
+	color: #fff;
+	position: fixed;
+	right: -350px;
+	top: 50vh;
+	width: 389px;
+	padding: 15px 0px 18px 0px;
+	border-radius: 5px;
+	z-index: 9999;
+	font-family: 'Avenirl';
+}
+
+@media screen and (max-width: 500px) {
+		.contact-onscroll-open{
+			padding: 2px 0px 2px 0px;
+	}
+}
+
+.contact-onscroll-open a:link, .contact-onscroll-open a:visited {
+	color: #fff;
+	display: inline;
+	font-family: 'Open Sans', sans-serif;
+	
+}
+
+.contact-onscroll-open p {
+	display: inline;
+}
+
+#closecontact {
+	position: relative;
+	left: 20px;
+	bottom: 7px;
+	cursor: pointer;
+	font-size: 120%;
+}
+	@media screen and (max-width: 500px) {
+		#closecontact {
+				bottom: 0px;
+		}
+	}
+	
+.contact-onscroll-open-tekst1 {
+	font-family: 'Avenirl';
+	font-size: 120%;
+	-webkit-transform: rotate(-270deg);
+	-moz-transform: rotate(-270deg);
+	-ms-transform: rotate(-270deg);
+	-o-transform: rotate(-270deg);
+	float: left;
+	margin-top: 41px;	
+	margin-left: -10px;
+}
+
+.contact-onscroll-open-tekst2 {
+	width: 230px;
+	float: right;
+	margin-right: 95px;
+	font-size:90%;
+}
+
+.contact-onscroll-open-tekst2 i {
+	margin-left: -5px;
+	margin-right: 10px;
+}
+
+.contactfbicon {
+margin-right: 20px;
+}
+
 /* Footer Flexbox */
 .footer-flex {
 	display: flex;

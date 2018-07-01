@@ -31,7 +31,17 @@ jQuery( document ).ready(function() {
 		});
 
 
-
+ // Contact Tab Open/Close
+	// Contact button
+	
+	jQuery('.contact-onscroll-open-tekst1').click(function() {
+		jQuery('.contact-onscroll-open').animate({right: '-85px'}, 800);
+	});
+	
+	jQuery('#closecontact').click(function() {
+		jQuery('.contact-onscroll-open').animate({right: '-350px'}, 800);
+	});
+	
 
 
 

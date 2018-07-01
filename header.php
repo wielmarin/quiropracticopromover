@@ -80,5 +80,18 @@
 </div>
 <!-- End Second line -->
 
+<!---- Side Contact ---->
+<div class="contact-onscroll-open"> 
+		<div class="contact-onscroll-open-tekst1">
+			<p>Contact</p>
+		</div>
+		<div class="contact-onscroll-open-tekst2">
+			<p>Más información o pide una cita</p><p id="closecontact"><i class="far fa-window-close"></i></p><br><p><i class="fas fa-phone"></i><a href="callto:0034865510203" target="_blank">865 510 203</a><br>
+			<i class="fab fa-whatsapp fa-lg"></i><p>625 766 814</p><br>
+			<p><i class="far fa-envelope"></i><a href="mailto:info@quiropracticopromover.es" target="_blank">info@quiropracticopromover.es</a></p>
+			<a href="https://www.facebook.com/quiropracticopromover" target="_blank"><i class="fab fa-facebook-f fa-lg contactfbicon"></i><p>Síguenos en Facebook</p></a>
+		</div>
+	</div>
+
 </header>
 <!-- /site-header -->
