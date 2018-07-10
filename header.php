@@ -31,13 +31,13 @@
 	<div id="headtop">
 		<div id="headtopcont">
 		<div id="headphoneicon">
-			<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/belicoonwit.png" height="17" width="17" alt="Telefoonnummer">
+			<img src="/wp-content/uploads/2017/03/belicoonwit.png" height="17" width="17" alt="Telefoonnummer">
 		</div>
 			<div id="headphone">
 				<p>+34 865 510 203</p>
 			</div>
 			<div id="headcita">
-				<a href="http://www.quiropracticopromover.es/citaonline/">Pide cita online</a>
+				<a href="/citaonline/">Pide cita online</a>
 			</div>
 			<!-- Language Flags -->
 			<div id="prehead"><?php
@@ -56,11 +56,11 @@
 	<!-- second line -->
 <div id="secondline">
 	<div class="logo">
-		<a href="<?php echo home_url(); ?>"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/04/QUIROPRACTICO-PROMOVER-1.jpg" class="logo" height="56" width="200" alt="Logo" /></a>
+		<a href="<?php echo home_url(); ?>"><img src="/wp-content/uploads/2017/04/QUIROPRACTICO-PROMOVER-1.jpg" class="logo" height="56" width="200" alt="Logo" /></a>
 	</div>
 		
 	<div class="logomobile">
-		<a href="<?php echo home_url(); ?>"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/04/QUIROPRACTICO-PROMOVER-1.jpg" height="42" width="150" alt="Logo" /></a>
+		<a href="<?php echo home_url(); ?>"><img src="/wp-content/uploads/2017/04/QUIROPRACTICO-PROMOVER-1.jpg" height="42" width="150" alt="Logo" /></a>
 	</div>
 		
 		<!-- navigation -->
