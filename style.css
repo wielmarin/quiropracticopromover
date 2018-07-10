@@ -9,45 +9,45 @@ Version: 1.0
 
 @font-face {
 	font-family: 'PTsans';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS55F-webfont.woff') format('woff');
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS55F.ttf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/PTS55F-webfont.woff') format('woff');
+	src: url('/wp-content/themes/Promover/Fonts/PTS55F.ttf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'PTsans';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS75F-webfont.woff') format('woff');
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS75F.ttf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/PTS75F-webfont.woff') format('woff');
+	src: url('/wp-content/themes/Promover/Fonts/PTS75F.ttf') format('truetype');
 	font-weight: bold;
 	font-style: bold;
 }
 
 @font-face {
 	font-family: 'PTsans';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS56F-webfont.woff') format('woff');
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/PTS56F.ttf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/PTS56F-webfont.woff') format('woff');
+	src: url('/wp-content/themes/Promover/Fonts/PTS56F.ttf') format('truetype');
 	font-weight: italic;
 	font-style: italic;
 }
 
 @font-face {
 	font-family: 'Avenir';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/AvenirLTStd-Heavy.otf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/AvenirLTStd-Heavy.otf') format('truetype');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family: 'Avenir';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/AvenirLTStd-Black.otf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/AvenirLTStd-Black.otf') format('truetype');
 	font-weight: bold;
 	font-style: bold;
 }
 
 @font-face {
 	font-family: 'Avenirl';
-	src: url('http://www.quiropracticopromover.es/wp-content/themes/Promover/Fonts/AvenirLTStd-Light.otf') format('truetype');
+	src: url('/wp-content/themes/Promover/Fonts/AvenirLTStd-Light.otf') format('truetype');
 }
 
 
@@ -1145,7 +1145,7 @@ div.subtitel-aboutme {
 
 
 div.flex-itemaboutmephoto {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/04/Robert-Correll-3.jpg);
+	background-image: url(/wp-content/uploads/2017/04/Robert-Correll-3.jpg);
 	background-repeat: no-repeat;
 	background-position: -220px -120px;
 	width: 272px;
@@ -1551,7 +1551,7 @@ div.container-subpage-background {
 
 div.bannersubpage {
 	position: relative;
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/03/Howwework.jpg);
+	background-image: url(/wp-content/uploads/2017/03/Howwework.jpg);
 	text-align: right;
 	background-position: center center;
 	background-size: cover;
@@ -1575,15 +1575,15 @@ div.bannersubpagedolor {
 }
 
 .backpainpageimage {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2018/03/Plastic-Spine.jpg);
+	background-image: url(/wp-content/uploads/2018/03/Plastic-Spine.jpg);
 }
 
 .herniapageimage {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2018/03/Black-and-white-back-pain.jpg)!important;
+	background-image: url(/wp-content/uploads/2018/03/Black-and-white-back-pain.jpg)!important;
 }
 
 .sportpageimage {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/09/jenny-hill-202432.jpg)!important;
+	background-image: url(/wp-content/uploads/2017/09/jenny-hill-202432.jpg)!important;
 }
 
 @media screen and (min-width: 1300px) {
@@ -1793,7 +1793,7 @@ div.container-subpageaboutus {
 
 
 div.flex-itemaboutusphoto {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/04/Robert-Correll-2.jpg);
+	background-image: url(/wp-content/uploads/2017/04/Robert-Correll-2.jpg);
 	background-repeat: no-repeat;
 	background-position: -270px -140px;
 	width: 310px;
@@ -2476,7 +2476,7 @@ div.date-flex-blog {
 }
 
 div.image-flex-blog1 {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/08/alejandro-salinas-189861-e1501670218266.jpg);
+	background-image: url(/wp-content/uploads/2017/08/alejandro-salinas-189861-e1501670218266.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -2485,7 +2485,7 @@ div.image-flex-blog1 {
 }
 
 div.image-flex-blog2 {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/05/Bannerblogexamenes.jpg);
+	background-image: url(/wp-content/uploads/2017/05/Bannerblogexamenes.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
@@ -2497,7 +2497,7 @@ div.image-flex-blog2 {
 
 div.bannerblog {
 	position: relative;
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/05/Bannerblogexamenes.jpg);
+	background-image: url(/wp-content/uploads/2017/05/Bannerblogexamenes.jpg);
 	text-align: right;
 	background-position: center 80%;
 	background-size: cover;
@@ -2509,7 +2509,7 @@ div.bannerblog {
 
 div.bannerblogmvmt {
 	position: relative;
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2018/01/kyle-johnson-389070.jpg);
+	background-image: url(/wp-content/uploads/2018/01/kyle-johnson-389070.jpg);
 	text-align: right;
 	background-position: center 20%;
 	background-size: cover;
@@ -2550,7 +2550,7 @@ div.bannerblogmvmt {
 
 div.bannerblogviaje {
 	position: relative;
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/08/alejandro-salinas-189861-e1501670218266.jpg);
+	background-image: url(/wp-content/uploads/2017/08/alejandro-salinas-189861-e1501670218266.jpg);
 	text-align: right;
 	background-position: 50% 50%;
 	background-size: cover;
@@ -2750,7 +2750,7 @@ div.subtitelabout {
 }
 
 div.flex-photorobert {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/06/Robertnieuw-2-e1496931165509.jpg);
+	background-image: url(/wp-content/uploads/2017/06/Robertnieuw-2-e1496931165509.jpg);
 	background-repeat: no-repeat;
 	background-position: -210px -110px;
 	width: 250px;
@@ -2761,7 +2761,7 @@ div.flex-photorobert {
 }
 
 div.flex-photomarin {
-	background-image: url(http://www.quiropracticopromover.es/wp-content/uploads/2017/06/marinfoto-e1496922783986.jpg);
+	background-image: url(/wp-content/uploads/2017/06/marinfoto-e1496922783986.jpg);
 	background-repeat: no-repeat;
 	width: 250px;
 	height: 250px;
