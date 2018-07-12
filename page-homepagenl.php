@@ -10,24 +10,24 @@ get_header();?>
 		<div class="titel-inleidingmobiel"><h1><b>Chiropractie Promover <nobr>San Vicente</nobr></b></h1></div>
 		<div class="tekst-inleiding"><h2>Heeft u nek-, hoofd- rug-, of andere fysieke klachten en bent u op zoek naar een Nederlandstalige chiropractor in de omgeving van Alicante? Dan kunt u bij ons terecht. Bij Quiropráctico Promover helpen wij u om uw lichaam weer optimaal te laten functioneren. Uw eerste consult (screening) is gratis.</h2></div> 
 		<div class="tekst-inleidingmobiel"><p>Heeft u nek-, hoofd- rug-, of andere fysieke klachten en bent u op zoek naar een Nederlandstalige chiropractor in Alicante? Dan kunt u bij ons terecht. Bij Quiropráctico Promover helpen wij u om uw lichaam weer optimaal te laten functioneren. Uw eerste consult (screening) is gratis.</p></div> 
-		<div class="button-inleiding"><a class="buttoninleiding" href="http://www.quiropracticopromover.es/nl/contactnl/">Afspraak maken</a></div>
+		<div class="button-inleiding"><a class="buttoninleiding" href="/nl/contactnl/">Afspraak maken</a></div>
 		<div class="aanbieding-inleiding"><b><p>Screening gratis</p></b></div>
 	</div>
 	
 	<!-- site-content -->
 	<div class="reference-container-color-flex">
-	<div class="taal-inleiding"><h5><nobr><a href="http://www.quiropracticopromover.es/">Hablamos Español <div class="flag"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839961_flag-spain.png" alt="Espanol" height="20" width="20"></div></a></nobr> <nobr><a href="http://www.quiropracticopromover.es/en/">We Speak English <div class="flag"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839982_flag-united-kingdom.png" alt="English" height="20" width="20"></div></nobr></a> <a href="http://www.quiropracticopromover.es/nl/"><nobr> Wij Spreken Nederlands <div class="flag"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1488839997_flag-the-netherlands.png" alt="Nederlands" height="20" width="20"></div></nobr></a></h5></div>
+	<div class="taal-inleiding"><h5><nobr><a href="/">Hablamos Español <div class="flag"><img src="/wp-content/uploads/2017/03/1488839961_flag-spain.png" alt="Espanol" height="20" width="20"></div></a></nobr> <nobr><a href="/en/">We Speak English <div class="flag"><img src="/wp-content/uploads/2017/03/1488839982_flag-united-kingdom.png" alt="English" height="20" width="20"></div></nobr></a> <a href="/nl/"><nobr> Wij Spreken Nederlands <div class="flag"><img src="/wp-content/uploads/2017/03/1488839997_flag-the-netherlands.png" alt="Nederlands" height="20" width="20"></div></nobr></a></h5></div>
 		<div class="flex-container">
-			<a href="http://www.quiropracticopromover.es/nl/hoewijwerken/"><div class="flex-item1">
-			<div class="beeldflex"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/chiropracticwit.png" alt="Howtohelpyou" height="50" width="50"></div>
+			<a href="/nl/hoewijwerken/"><div class="flex-item1">
+			<div class="beeldflex"><img src="/wp-content/uploads/2017/03/chiropracticwit.png" alt="Howtohelpyou" height="50" width="50"></div>
 			<div class="description-flex-container">Hoe wij werken</div>
 			</div></a>
-			<a href="http://www.quiropracticopromover.es/nl/bezoek/"><div class="flex-item2">
-			<div class="beeldflex"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/Firstvisit-2-e1488809913721.png" alt="Yourvisit" height="50" width="50"></div>
+			<a href="/nl/bezoek/"><div class="flex-item2">
+			<div class="beeldflex"><img src="/wp-content/uploads/2017/03/Firstvisit-2-e1488809913721.png" alt="Yourvisit" height="50" width="50"></div>
 			<div class="description-flex-container">Over uw bezoek</div>
 			</div></a>
-			<a href="http://www.quiropracticopromover.es/nl/boek-online/"><div class="flex-item3">
-			<div class="beeldflex3"><img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/kalender-e1488806889567.png" alt="Kalender" height="45" width="45"></div>         
+			<a href="/nl/boek-online/"><div class="flex-item3">
+			<div class="beeldflex3"><img src="/wp-content/uploads/2017/03/kalender-e1488806889567.png" alt="Kalender" height="45" width="45"></div>         
 			<div class="description-flex-container">Plan uw afspraak online</div> 
 			</div></a>
 		</div>
@@ -41,7 +41,7 @@ get_header();?>
 				<div class="flex-itemovermij">
 					<div class="text-itemovermij"><p>"In 2008 ben ik als chiropractor afgestudeerd aan de <nobr>Anglo-European College</nobr> of Chiropractic. Daarna heb ik opleidingen gevolgd op het gebied van functionele neurologie en heb ik mij ontwikkeld tot expert op het gebied van bewegingstechnieken. Na één jaar in Engeland gewerkt te hebben, heb ik meer dan zeven jaar gewerkt in Nederland." </p></div>
 				</div>
-			<a href="http://www.quiropracticopromover.es/nl/overons/"><button class="button button-about"><nobr>Lees meer</nobr></button></a>
+			<a href="/nl/overons/"><button class="button button-about"><nobr>Lees meer</nobr></button></a>
 			</div>
 		</div>
 		<!-- Reviews -->
@@ -57,17 +57,17 @@ get_header();?>
 			<div class="subtitel-contact"><h1><b>Contact</b></h1></div>
 				<div class="flex-itemcontact">
 					<div class="mailcontact"><div class="contact">
-					<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1485380578_Mail.png" height="25" width="25" alt="Email" /></div>&nbsp;info@quiropracticopromover.es</p>
+					<img src="/wp-content/uploads/2017/03/1485380578_Mail.png" height="25" width="25" alt="Email" /></div>&nbsp;info@quiropracticopromover.es</p>
 					</div>
 					<div class="contact">
-					<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/1485380380_Call01.png" height="25" width="25 alt="Phone number" /></div>&nbsp;+34 865 510 203</p>
+					<img src="/wp-content/uploads/2017/03/1485380380_Call01.png" height="25" width="25 alt="Phone number" /></div>&nbsp;+34 865 510 203</p>
 					<div class="contact">
-					<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/Whatsapp.png" height="25" width="25 alt="Phone number whats app" /></div>&nbsp;+34 625 766 814</p>
+					<img src="/wp-content/uploads/2017/03/Whatsapp.png" height="25" width="25 alt="Phone number whats app" /></div>&nbsp;+34 625 766 814</p>
 					<div class="contact">
-					<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/icoonlocatie.png" height="25" width="25 alt="Location" /></div>&nbsp;Calle Cervantes 25, Entreplanta, Oficina 2, 03690 <nobr>San Vicente del Raspeig</nobr><br><a href="http://www.quiropracticopromover.es/nl/contactnl/">Route en parkeren</a></p>		
+					<img src="/wp-content/uploads/2017/03/icoonlocatie.png" height="25" width="25 alt="Location" /></div>&nbsp;Calle Cervantes 25, Entreplanta, Oficina 2, 03690 <nobr>San Vicente del Raspeig</nobr><br><a href="/nl/contactnl/">Route en parkeren</a></p>		
 					Bereikbaar van: Maandag tot en met vrijdag van 09.30 - 20.00.
 					<br><br><br>
-					<a href="http://www.quiropracticopromover.es/nl/boek-online/"><div class="bookonlinemobiel"><div class="descriptionbookonlinemobiel">Plan hier uw afspraak online <br>(Screening gratis)</div></div></a>	
+					<a href="/nl/boek-online/"><div class="bookonlinemobiel"><div class="descriptionbookonlinemobiel">Plan hier uw afspraak online <br>(Screening gratis)</div></div></a>	
 				<div class="titelcontactmobiel"><h3><b>Contact form</b></h3></div>
 				</div>
 			<div class="formuliercontact"<?php echo do_shortcode('[contact-form-7 id="204" title="Contactformuliernl"]'); ?></div>
