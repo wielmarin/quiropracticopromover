@@ -8,8 +8,21 @@ get_header();?>
 	<div class="inleiding">
 		<div class="titel-inleiding"><h1><b>Quiropráctico Promover - San Vicente del Raspeig</b></h1></div>
 		<div class="titel-inleidingmobiel"><h1><b>Quiropráctico Promover <nobr>San Vicente</nobr></b></h1></div>
-		<div class="tekst-inleiding"><h2>Hemos ayudado a gente que ha venido con varios síntomas, como el dolor de cuello, <a href="/dolor-espalda/">espalda</a>, rodillas, manos, pies y hombros, y otras molestias como <a href="/dolor-cabeza-quiropractica-alicante/">migraña</a>, <a href="/hernia-discal/">hernia</a>, <a href="/escoliosis-alicante/escoliosis">escoliosis</a>, <a href="/artritis-artrosis/">artritis</a>, mareos, desequilibrio, <a href="/deporte-lesiones-terapia/">lesiones deportivas</a> y <a href="/fibromialgia-dolor-quiropractica/">fibromialgia</a>. Te invitamos a descubrir si la Quiropráctica puede ayudarte con una consulta inicial gratis.</h2></div> 
-		<div class="tekst-inleidingmobiel"><p>Hemos ayudado a gente que ha venido con varios síntomas, como el dolor de cuello, <a href="/dolor-espalda/">espalda</a>, rodillas, manos, pies y hombros, y otras molestias como <a href="/dolor-cabeza-quiropractica-alicante/">migraña</a>, <a href="/hernia-discal/">hernia</a>, <a href="/escoliosis-alicante/escoliosis">escoliosis</a>, <a href="/artritis-artrosis/">artritis</a>, mareos, desequilibrio, <a href="/deporte-lesiones-terapia/">lesiones deportivas</a> y <a href="/fibromialgia-dolor-quiropractica/">fibromialgia</a>.</p></div> 
+		
+<?php if (have_posts()) : 
+while (have_posts()) : the_post(); ?>		
+		
+		<div class="tekst-inleiding"><?php the_content(); ?></div> 
+		
+<?php endwhile;
+
+else : 
+echo '<h2>Hemos ayudado a gente que ha venido con varios síntomas, como el dolor de cuello, <a href="/dolor-espalda/">espalda</a>, rodillas, manos, pies y hombros, y otras molestias como <a href="/dolor-cabeza-quiropractica-alicante/">migraña</a>, <a href="/hernia-discal/">hernia</a>, <a href="/escoliosis-alicante/escoliosis">escoliosis</a>, <a href="/artritis-artrosis/">artritis</a>, mareos, desequilibrio, <a href="/deporte-lesiones-terapia/">lesiones deportivas</a> y <a href="/fibromialgia-dolor-quiropractica/">fibromialgia</a>. Te invitamos a descubrir si la Quiropráctica puede ayudarte con una consulta inicial gratis.</h2>';
+
+endif; ?>		
+		
+		
+		<div class="tekst-inleidingmobiel"><p>Hemos ayudado a gente que ha venido con varios síntomas, como el dolor de cuello, <a href="/dolor-espalda/">espalda</a>, rodillas, manos, pies y hombros, y otras molestias como <a href="/dolor-cabeza-quiropractica-alicante/">migraña</a>, <a href="/hernia-discal/">hernia</a>, <a href="/escoliosis-alicante/escoliosis">escoliosis</a>, <a href="/artritis-artrosis/">artritis</a>, <a href="/mareos-y-vertigos/">mareos</a>, desequilibrio, <a href="/deporte-lesiones-terapia/">lesiones deportivas</a> y <a href="/fibromialgia-dolor-quiropractica/">fibromialgia</a>.</p></div> 
 		<div class="button-inleiding"><a class="buttoninleiding" href="/contacto/">Pide una cita </a></div>
 		<div class="aanbieding-inleiding"><b><p>Consulta introductoria gratis</p></b></div>
 	</div>
