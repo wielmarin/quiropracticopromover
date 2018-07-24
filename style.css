@@ -1529,6 +1529,31 @@ div.container-subpage-dolor {
 	margin-top: 5px;
 }
 
+@media screen and (max-width: 1200px) {
+	div.container-subpage-dolor {
+		max-width: 650px;
+	}
+}
+
+@media screen and (max-width: 1050px) {
+	div.container-subpage-dolor {
+		max-width: 500px;
+	}
+}
+	
+@media screen and (max-width: 900px) {
+	div.container-subpage-dolor {
+		max-width: 400px;
+	}
+}
+
+@media screen and (max-width: 750px) {
+	div.container-subpage-dolor {
+		max-width: 85%;
+	}
+}
+
+
 div.container-subpage-dolor img {
 	padding: 10px 0px 0px 10px;
 }
@@ -3016,19 +3041,21 @@ div.flex-para {
 
 
 #reviewsidebar {
-	height: 400px;
+	height: 100%;
 	width: 300px;
 	list-style: none;
-	margin-right: 0px;
-	padding-top: 25px;
-	overflow: scroll;
-	margin-right: 20px;
+	padding-top: 30px;
+	margin-right: 5%;
+	padding-bottom: 30px;
 }
 
 
-@media screen and (max-width: 1100px) {
+@media screen and (max-width: 750px) {
 	#reviewsidebar {
 		display: none!important;
 	}
 }
 
+.wp-fbrev wpac {
+		max-height: 250px!important;
+}

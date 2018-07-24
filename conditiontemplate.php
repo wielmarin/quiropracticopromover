@@ -23,7 +23,8 @@ get_header();
 		
 			<div class="container-subpage-dolor">
 				<?php the_content(); ?>
-			<?php get_template_part(languagehome); ?>
+				
+				<?php get_template_part(languagehome); ?>
 			</div>
 			
 			<div id="reviewsidebar">
