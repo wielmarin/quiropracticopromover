@@ -1,5 +1,8 @@
 <?php
 
+/*
+Template Name: Blog
+*/
 
 get_header();
 
@@ -7,8 +10,11 @@ if (have_posts()) :
 while (have_posts()) : the_post(); ?>
 
 <!-- banner-image -->
-<div class="bannerblog">
-</div>
+<?php  $post_thumbnail_id = get_post_thumbnail_id();
+	$post_thumbnail_url = wp_get_attachment_url( $post_thumbnail_id ); ?>
+	<div class="bannerblog" style="background-image:url(<?php echo $post_thumbnail_url; ?>)">
+	</div>
+
 
 <div class="container-subpage-background">
 	<div class="blogcontainertemplate">
