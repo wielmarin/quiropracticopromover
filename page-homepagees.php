@@ -6,8 +6,8 @@ get_header();?>
 	<!-- Inleiding -->
 	
 	<div class="inleiding">
-		<div class="titel-inleiding"><h1><b>Quiropráctico Promover - San Vicente del Raspeig</b></h1></div>
-		<div class="titel-inleidingmobiel"><h1><b>Quiropráctico Promover <nobr>San Vicente</nobr></b></h1></div>
+		<div class="titel-inleiding"><h1><b>Quiropráctico Promover - San Vicente del Raspeig<br>y Villajoyosa Club de Tenis</b></h1></div>
+		<div class="titel-inleidingmobiel"><h1><b>Quiropráctico Promover <nobr>San Vicente</nobr><br>y Villajoyosa Club de Tenis</b></h1></div>
 		
 <?php if (have_posts()) : 
 while (have_posts()) : the_post(); ?>		

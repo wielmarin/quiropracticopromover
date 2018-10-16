@@ -163,7 +163,7 @@ padding-right: none;
 	left: 0;
 	width: 100%;
 	height: 32px;
-	background-color: #4a6f5a;
+	background-color: #1e392a;
 }
 
 #headtopcont {
@@ -560,7 +560,7 @@ margin-right: 20px;
 	display: -webkit-flex;
 	width: 100%;
 	height: 100%;
-	background-color: #4a6f5a;
+	background-color: #1e392a;
 	opacity: 0.95;
 }
 
@@ -730,7 +730,7 @@ div.footer-titel {
 
 div.copyright {
 	border-top: 1px dotted #343536;
-	background-color: #4a6f5a;
+	background-color:#1e392a;
 	color: #FFF;
 	text-align: center;
 	opacity: 0.95;
@@ -775,6 +775,16 @@ div.tekst-inleiding {
 	margin-top: 10px;
 	margin-left: 9%;
 	margin-right: 9%;
+}
+
+div.tekst-inleiding a {
+	text-decoration: underline!important;
+	font-weight: bold;
+	color: #1e392a;
+}
+
+div.tekst-inleiding a:hover {
+	text-decoration: none!important;
 }
 
 div.tekst-inleidingmobiel {
@@ -895,7 +905,7 @@ div.taal-inleiding {
 	font-size: 19.5px;
 	width: 100%;
 	text-align: center;
-	background-color: #eef1f0;
+	background-color: #e8ebe9;
 	padding-bottom: 30px;
 }
 
@@ -947,7 +957,7 @@ div.reference-container-color-flex {
 	-webkit-justify-content: space-around;
 	height: 100%;
 	padding-top: 50px;
-	background-color: #eef1f0;
+	background-color: #e8ebe9
 }
 
 div.flex-container {
@@ -961,7 +971,7 @@ width: 100%;
 margin: auto;
 justify-content: space-around;
 padding-bottom: 45px;
-background-color: #eef1f0;
+background-color: #e8ebe9;
 }
 
 div.flex-item1 {
@@ -1108,7 +1118,7 @@ div.reference-container-color-aboutme {
 	display: flex;
 	-webkit-flex-wrap: wrap;
 	flex-wrap: wrap;
-	Background-color: #4a6f5a;
+	background-color: #1e392a;
 	justify-content: space-around;
 	-webkit-justify-content: space-around;
 	height: 100%;
@@ -1121,7 +1131,7 @@ div.reference-container-aboutme {
 	display: flex;
 	-webkit-flex-wrap: wrap;
 	flex-wrap: wrap;
-	Background-color: #4a6f5a;
+	Background-color: #1e392a;
 	padding: 10px;
 	justify-content: space-around;
 	-webkit-justify-content: space-around;
@@ -1234,7 +1244,7 @@ div.banner-action {
 	margin-top: -10px;
 	display: block;
     padding: 7px 7px;
-	background: #9a333a;
+	background: #fcb733;
     border-radius: 8px;
 	font-size: 17px;
     color: #FFF!important;
@@ -1256,10 +1266,10 @@ div.banner-action {
 .buttoninleiding:hover,
 .buttoninleiding:focus {
     text-decoration: none;
-	background:#c2464e;
+	background:#fcb020;
 }
 .buttoninleiding:active {
-    background: #aba7a5;
+    background: #fcb020;
     background: -webkit-gradient(linear, left top, left bottom, from(#aba7a5), to(#aba7a5));
     background: -moz-linear-gradient(top, #aba7a5, #aba7a5);
     background: linear-gradient(to bottom, #aba7a5, #aba7a5);
@@ -1411,7 +1421,7 @@ div.beeldflexcontact {
 
 @media screen and (max-width: 820px) {
 	
-	.flex-itemcontact {
+	.flex-itemcontact, .villajoyosa-contact-item {
 		padding-bottom: 15px!important;
 		font-size: 17px!important;
 	}
@@ -1423,7 +1433,7 @@ div.beeldflexcontact {
 
 @media screen and (max-width: 480px) {
 	
-		.flex-itemcontact {
+		.flex-itemcontact, .villajoyosa-contact-item {
 		width: 280px!important;
 		font-size: 15px!important;
 	}
@@ -1562,7 +1572,7 @@ div.container-subpage-dolor img {
 div.container-subpage-background {
 	display: -webkit-flex;
 	display: flex;
-	flex-wrap: no-wrap;
+	flex-wrap: wrap;
 	height: 100%;
 	width: 100%;
 	margin: auto;
@@ -1652,14 +1662,14 @@ div.banner-titelsubpage {
 	font-size: 25px;
 	opacity: 0.9;
 	padding: 5% 0;
-	top: 20%;
+	top: 50%;
+	transform: translateY(-50%);
 	text-shadow: 0.1em 0.1em #333
 }
 
 @media screen and (max-width: 500px) {
 	.banner-titelsubpage {
 	font-size: 20px!important;
-	top: 35%!important;
 	}
 	
 	div.container-subpage-dolor img {
@@ -3058,4 +3068,45 @@ div.flex-para {
 
 .wp-fbrev wpac {
 		max-height: 250px!important;
+}
+
+
+/********** Villajoyosa **************/
+#villajoyosa-content {
+	width: calc(100% - 40px);
+	max-width: 1200px;
+	margin: 40px auto auto;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+#villajoyosa-content h3 {
+	font-weight: 700;
+}
+
+#villajoyosa-title {
+	width: calc(100% - 80px);
+	max-width: 1000px;
+	text-align: center;
+	margin: auto auto 20px;
+}
+
+#villajoyosa-text {
+	width: 100%;
+}
+
+#villajoyosa-contact, #villajoyosa-times {
+	width: 100%;
+}
+
+#villajoyosa-times p:first-of-type {
+	margin-top: 10px;
+}
+
+.villajoyosa-contact-item {
+	width: 400px;
+	text-align: left;
+	font-size: 15px;
+	padding: 10px 0px;
 }

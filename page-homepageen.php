@@ -6,8 +6,8 @@ get_header();?>
 	<!-- Inleiding -->
 	
 	<div class="inleiding">
-		<div class="titel-inleiding"><h1><b>Welcome to Chiropractic Promover - San Vicente</b></h1></div>
-		<div class="titel-inleidingmobiel"><h1><b>Chiropractic Promover <nobr>San Vicente</nobr></b></h1></div>
+		<div class="titel-inleiding"><h1><b>Welcome to Chiropractic Promover - San Vicente<br>and Villajoyosa Club de Tenis</b></h1></div>
+		<div class="titel-inleidingmobiel"><h1><b>Chiropractic Promover <nobr>San Vicente</nobr><br>and Villajoyosa Club de Tenis</b></h1></div>
 		
 		<!-- <div class="tekst-inleiding"><h2>With more than 10 years experience and support from the most current research we can help you reach your get out of pain by assessing your movement, balance and posture, and designing a plan specific to your needs. We commonly treat people with neck pain, <a href="/en/back-pain-alicante/">back pain</a>, <a href="/en/headache-migraine-alicante-san-vicente/">headaches and migraines</a>, shoulder, hip and knee problems, <a href="/en/hernia-slipped-disc-pain-alicante/">hernia/slipped discs</a>, <a href="/sport-injuries-performance-rehabilitation">sports injuries</a>, fibromyalgia, <a href="/en/scoliosis-alicante/">scoliosis</a>, <a href="/en/arthritis-arthrosis/">arthritis</a>, ischias and dizziness.</h2></div> -->
 		

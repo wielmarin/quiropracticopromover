@@ -6,8 +6,8 @@ get_header();?>
 	<!-- Inleiding -->
 	
 	<div class="inleiding">
-		<div class="titel-inleiding"><h1><b>Chiropractie Promover - San Vicente del Raspeig</b></h1></div>
-		<div class="titel-inleidingmobiel"><h1><b>Chiropractie Promover <nobr>San Vicente</nobr></b></h1></div>
+		<div class="titel-inleiding"><h1><b>Chiropractie Promover - San Vicente del Raspeig<br>en Villajoyosa Club de Tenis</b></h1></div>
+		<div class="titel-inleidingmobiel"><h1><b>Chiropractie Promover <nobr>San Vicente</nobr><br>en Villajoyosa Club de Tenis</b></h1></div>
 		<div class="tekst-inleiding"><h2>Heeft u nek-, hoofd- rug-, of andere fysieke klachten en bent u op zoek naar een Nederlandstalige chiropractor in de omgeving van Alicante? Dan kunt u bij ons terecht. Bij Quiropráctico Promover helpen wij u om uw lichaam weer optimaal te laten functioneren. Uw eerste consult (screening) is gratis.</h2></div> 
 		<div class="tekst-inleidingmobiel"><p>Heeft u nek-, hoofd- rug-, of andere fysieke klachten en bent u op zoek naar een Nederlandstalige chiropractor in Alicante? Dan kunt u bij ons terecht. Bij Quiropráctico Promover helpen wij u om uw lichaam weer optimaal te laten functioneren. Uw eerste consult (screening) is gratis.</p></div> 
 		<div class="button-inleiding"><a class="buttoninleiding" href="/nl/contactnl/">Afspraak maken</a></div>
