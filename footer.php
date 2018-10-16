@@ -15,7 +15,7 @@
 		<div class="footer3">
 			<div class="footer-titel"> Contacto </div>
 				<div class="contacticoonfooter">
-				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/mailicoonwit.png" height="25" width="25" alt="Email" /></div>&nbsp;<a href="info@quiropracticopromover.es" target="_blank">info@quiropracticopromover.es</a></p>
+				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/mailicoonwit.png" height="25" width="25" alt="Email" /></div>&nbsp;<a href="mailto:info@quiropracticopromover.es" target="_blank">info@quiropracticopromover.es</a></p>
 				<div class="bellenfooter">
 				<div class="contacticoonfooter">
 				<img src="http://www.quiropracticopromover.es/wp-content/uploads/2017/03/belicoonwit.png" height="25" width="25 alt="Telefoonnummer" /></div>&nbsp;+34 865 510 203</p>

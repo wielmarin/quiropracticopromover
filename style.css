@@ -779,7 +779,6 @@ div.tekst-inleiding {
 
 div.tekst-inleiding a {
 	text-decoration: underline!important;
-	font-weight: bold;
 	color: #1e392a;
 }
 
@@ -3108,5 +3107,5 @@ div.flex-para {
 	width: 400px;
 	text-align: left;
 	font-size: 15px;
-	padding: 10px 0px;
+	padding-bottom: 10px;
 }
